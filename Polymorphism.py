@@ -17,6 +17,7 @@ def main():
     # for each in [A,T]:
     #     print(id(each))
     #     temp=each.fetch_capital()
+    
     #     print(id(temp))
 if __name__=="__main__":
     main()
