@@ -11,7 +11,6 @@ class Note_Book:
 
 class Laptop:
     
-    
     def typeing(self)-> str:
         return "In laptop we will code"
     
