@@ -8,7 +8,7 @@ from abc import ABC, abstractmethod
 
 class Millage(ABC):
 
-    def __init__(self, vehicle):
+    def __init__(self, vehicle: str):
         self.vehicale=vehicle
 
     @abstractmethod
