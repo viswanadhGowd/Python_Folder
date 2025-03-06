@@ -24,7 +24,6 @@ class Drink(Displayfeed):
         return "have a water" 
 
 def main():
-
     for each in [Human(Food()),Human(Drink())]:
          print(each.display_feed())
 
