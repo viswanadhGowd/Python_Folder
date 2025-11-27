@@ -2,6 +2,7 @@
 class sample:
     def __init__(self, no1):
         self.no1=no1
+        
     def add(self):
         return f"After adding no 10 to {self.no1+10}"
 
