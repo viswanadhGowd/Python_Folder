@@ -44,7 +44,7 @@ def wrapper(func):
 @wrapper
 def add(no):
     return no
-# print(add(10))
+
 
 def remove_duplicates():
     import copy
